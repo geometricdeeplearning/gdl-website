@@ -1,6 +1,6 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: Papers and Code
+subtitle: Papers in GDL
 layout: "page"
 icon: fa-book
 order: 3
