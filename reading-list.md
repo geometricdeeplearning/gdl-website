@@ -1,10 +1,12 @@
 ---
 title: Papers and Code
-# subtitle: Papers in GDL
-layout: papers
+subtitle: Papers in GDL
+# layout: papers
+layout: "page"
 icon: fa-book
 order: 3
 ---
+TEST
 <!-- 
 I love books! Here are some I'm reading now:
 
