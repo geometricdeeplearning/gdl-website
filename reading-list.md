@@ -1,7 +1,7 @@
 ---
 title: Papers and Code
 subtitle: Papers in GDL
-layout: "page"
+layout: papers
 icon: fa-book
 order: 3
 ---
