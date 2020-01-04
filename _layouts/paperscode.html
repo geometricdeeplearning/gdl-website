@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{%- assign _papercats = site.sections | sort: 'order' -%}
+{%- assign _papercats = site.papercats | sort: 'order' -%}
 {%- include header.html scrolly_nav=_papercats -%}
 <!-- Main -->
 <div id="main">
