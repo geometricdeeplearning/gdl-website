@@ -36,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This community website gathers resources about the emerging field of Geometric Deep Learning (GDL).
 author: GDL Website Team
 email: mehdi.bahri15@imperial.ac.uk
-avatar: assets/images/avatar.jpg
+avatar: assets/images/avatar.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
