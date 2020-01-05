@@ -99,6 +99,7 @@
 	h2 {
 		font-size: 2em;
 		letter-spacing: -1px;
+		text-align: center;
 	}
 
 	h3 {
@@ -643,7 +644,7 @@
 	#main {
 		margin-left: 375px;
 		> section {
-			text-align: center;
+			text-align: justify;
 		}
 		> article {
 			text-align: left;
@@ -1106,4 +1107,9 @@
 				}
 			}
 
+	}
+
+/* Special centering class */
+	.specialcentered {
+		text-align: center;
 	}
