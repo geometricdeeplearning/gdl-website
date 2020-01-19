@@ -62,3 +62,6 @@ remote_theme: chrisbobbe/jekyll-theme-prologue
 collections:
   - sections
   - papercats
+
+exclude:
+  - blog_examples
