@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Geometric Deep Learning
-subtitle: Exploring the interplay of geometry and deep learning
+subtitle: A community hub
 description: >- # this means to ignore newlines until "baseurl:"
   This community website gathers resources about the emerging field of Geometric Deep Learning (GDL).
 author: GDL Website Team
