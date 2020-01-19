@@ -30,7 +30,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Geometric Deep Learning
+title: Geometric Deep\<br\>Learning
 subtitle: A community hub
 description: >- # this means to ignore newlines until "baseurl:"
   This community website gathers resources about the emerging field of Geometric Deep Learning (GDL).
