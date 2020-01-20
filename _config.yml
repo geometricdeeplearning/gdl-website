@@ -39,7 +39,7 @@ email: mehdi.bahri15@imperial.ac.uk
 avatar: assets/images/avatar.png
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
+baseurl: "/gdl-website" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
